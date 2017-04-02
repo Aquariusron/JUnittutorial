@@ -17,7 +17,7 @@ import org.apache.poi.ss.usermodel.WorkbookFactory;
 
 public class TestPoi2 {
 	final static String PATH = " C:\\sample.xls ";
-nit	public static void main (String args[] ) {
+	public static void main (String args[] ) {
 
 		try {
 			File f = new File( PATH );
